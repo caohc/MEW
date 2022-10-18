@@ -1,0 +1,13 @@
+uniform	制服	前缀uni			视频1-1	微信课堂晓老师	词根词缀课程
+unit	单元	前缀uni			视频1-1	微信课堂晓老师	词根词缀课程
+unite	团结	前缀uni			视频1-1	微信课堂晓老师	词根词缀课程
+united	联合的	前缀uni			视频1-1	微信课堂晓老师	词根词缀课程
+unicycle	独轮车	前缀uni			视频1-1	微信课堂晓老师	词根词缀课程
+cycle	循环		词根cycle		视频1-1	微信课堂晓老师	词根词缀课程
+bicycle	自行车		词根cycle		视频1-1	微信课堂晓老师	词根词缀课程
+tricycle	三轮车	前缀tri	词根cycle		视频1-1	微信课堂晓老师	词根词缀课程
+motorcycle	摩托车		词根cycle		视频1-1	微信课堂晓老师	词根词缀课程
+tripod	三脚架	前缀tri			视频1-1	微信课堂晓老师	词根词缀课程
+transformer	变形金刚	前缀trans	词根form	后缀er	视频1-2	微信课堂晓老师	词根词缀课程
+singer				后缀er	视频1-3	微信课堂晓老师	词根词缀课程
+dancer				后缀er	视频1-4	微信课堂晓老师	词根词缀课程
